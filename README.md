@@ -11,7 +11,7 @@ To use this plugin, we assume you have [cellpose2](https://github.com/MouseLand/
 If you are not familiar with conda enviroment or cellpose, please check their documentation:
 
 - [Anaconda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python)
-- [cellpose]((https://github.com/MouseLand/cellpose))
+- [cellpose](https://github.com/MouseLand/cellpose)
 
 First of all we need to activate the conda enviroment you want to install CellAether in by running
 
