@@ -79,3 +79,10 @@ For image file with n Channels and m ROIs, the result csv file is structured as:
 - Chan_n: sum of pixel intensity within the ROI
 
 To close this app, just click the red "x" on top-left.
+
+
+## To-do 
+
+Fully test HCR detection distribution with existing splits data
+Update GUI
+
